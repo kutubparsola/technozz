@@ -1,2 +1,2 @@
 # technozz
-a practical go through the concept of diffrent web dev languages
+a practical go through the concept of diffrent web dev languages.
